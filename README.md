@@ -1,4 +1,4 @@
-# Discrete Wavelet Transform using Fractional Spline Wavelets (FrDWT) 🌊
+# Discrete Wavelet Transform using Fractional Spline Wavelets 🌊
 
 Welcome to the **FrDWT** repository! Here, you'll find a comprehensive collection of R functions to perform the Discrete Wavelet Transform (DWT) using fractional spline wavelets, covering both analysis and synthesis.
 
