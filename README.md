@@ -7,13 +7,13 @@ Welcome to the **FrDWT** repository! Here, you'll find a comprehensive collectio
 This repository includes:
 
 - **DWT Analysis & Synthesis:** Functions to execute the Discrete Wavelet Transform using fractional spline wavelets.
-- **Plotting Tools:** Visualize DWT, multiresolution analysis, and decomposition.
+- **Plotting Tools:** Visualize the levels of DWT, multiresolution analysis, and decomposition.
 - **Advanced Features:**
   - Thresholding techniques
   - Wavelet confidence interval bootstrap
   - Wavelet scalogram and periodogram
-  - And much more!
-- There is a tutorial code serving as an example of how to perform Analysis and Syntesis using Fractional Spline Wavelets. 
+
+There is a tutorial code serving as an example of how to perform Analysis and Syntesis using Fractional Spline Wavelets. 
 
 These R functions are based on the original MATLAB codes by Unser and Blu:
 
